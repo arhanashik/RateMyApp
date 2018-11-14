@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">RateMyApp</string>
+    <string name="dev_name">blackSpider</string>
+
+    <string name="title_main_activity">Rate My App</string>
+
+    <string name="install_google_play_store" translatable="false">Please install google play store and then try again.</string>
+    <string name="url_market_details" translatable="false">market://details?id=</string>
+    <string name="url_playstore_app" translatable="false">https://play.google.com/store/apps/details?id=</string>
+    <string name="url_market_search_app" translatable="false">market://search?q=pub:</string>
+    <string name="url_playstore_search_app" translatable="false">http://play.google.com/store/search?q=pub:</string>
+    <string name="app_link" translatable="false">https://play.google.com/store/apps/details?id=</string>
+
+    <string name="text_please_rate">Please help us to improve the app with your rating and valuable feedback</string>
+    <string name="text_rate_app">Rate App</string>
+    <string name="text_check_for_update">Check for update</string>
+    <string name="text_similar_app">More app</string>
+
+    <string name="filter_view_http_rate_my_app">Open RateMyApp</string>
+</resources>
